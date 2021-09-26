@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "614806909048",
+    "project_id": "startup-funding-prediction",
+    "storage_bucket": "startup-funding-prediction.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614806909048:android:bc6288e4c0b58af502fd8d",
+        "android_client_info": {
+          "package_name": "com.example.startup_funding_prediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614806909048-cfjs9v18eq1lc2617kvgf8jkk9se23o9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.startup_funding_prediction",
+            "certificate_hash": "7b91238a8249716ff4f780aabedb29493b75e355"
+          }
+        },
+        {
+          "client_id": "614806909048-cie91truogg60t2kip9038l8hskh7hfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_MqIGbHG-8tjmYigjTrG0Lbjgqlrju_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614806909048-cie91truogg60t2kip9038l8hskh7hfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
