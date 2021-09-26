@@ -23,7 +23,7 @@ Given application is made as a part of internship in HCL Technologies under the 
 #### Register
  <img src="./screenshots/register.png" width="180" height="320"> <img src="./screenshots/register_account.png" width="180" height="320">
 
-#### Machine Learnning Prediction
+#### Machine Learnning Model(Xgboost Regressor) Prediction
  <img src="./screenshots/home_details_filled.png" width="180" height="320">  <img src="./screenshots/home_model_prediction.png" width="180" height="320">
 
 ## Links
