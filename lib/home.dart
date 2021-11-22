@@ -294,7 +294,7 @@ class _HomeState extends State<Home> {
                                         .toString(),
                                     'year': _year.text
                                   };
-                                  String pred =
+                                  String pred = 
                                       await XgboostRegressor.getPrediction(
                                           startupData);
                                   showDialog(
@@ -308,7 +308,7 @@ class _HomeState extends State<Home> {
                                                   child: Text("ok")),
                                             ],
                                             title: Text(
-                                                'Esrimated Funding: \$$pred'),
+                                                'Estimated Funding: \$$pred'),
                                           ));
                                 } catch (e) {
                                   print(e.toString());
